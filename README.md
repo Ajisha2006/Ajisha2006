@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi there, I'm Ajisha! 👋
 
-<!--
-**Ajisha2006/Ajisha2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning Python and Web Development
+- 🤖 Exploring Artificial Intelligence
+- 🔐 Interested in Cybersecurity
+- 🎨 Canva Designer and Presentation Creator
+- 🚀 Building projects and developing my technical skills
+
+🛠️ Skills
+
+- Programming: Python (learning)
+- Web: HTML, CSS
+- Creative tools: Canva, PowerPoint
+- Interests: AI, Cybersecurity, Software Development
+
+📂 My Projects
+
+- 🌱 IoT-Based Spirulina Growth Monitoring and Early Warning System
+- 🤖 Foldable Robotic Well Cleaning Machine
+
+🎯 My Goals
+
+- Learn programming fundamentals
+- Build practical projects
+- Develop my portfolio
+- Explore AI technologies
+
+Thanks for visiting my profile! 💙
